@@ -1,0 +1,16 @@
+Name: Mishell Tigse Ortiz
+Student ID: 2561974
+
+Hours used: 7 hours.
+
+Easy and difficult issues with the assignment:
+
+The most difficult part of this assignment has been the understanding of what 
+I was supposed to do so I have implemented inheritance and a container to store 
+plots based on what I have read in the evaluation criteria. The implementation was 
+not difficult since I have worked with all in the previous assignments.
+
+What did you learn from the assignment?
+In this assignment, I have reviewed most of the things that I have worked on such 
+as inheritance, containers, etc. In addition, I have learned to make better structures and 
+connections between classes.

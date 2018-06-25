@@ -1,0 +1,17 @@
+Name: Mishell Tigse Ortiz
+Student ID: 2561974
+
+Hours used: 4 hours.
+
+Easy and difficult issues with the assignment:
+
+My main difficulty in this assignment has been not having worked with vectors before. At first, I was a bit lost but then when 
+looking at an example of an exercise, I was able to work without any difficulties. Regarding the easy part, I guess I am gradually 
+taking more ease with the building of the structure and the connection between classes.
+
+What did you learn from the assignment?
+
+In this assignment, I have learned how to work with vectors. In addition, I have learned that you can have troubles if you use 
+standard output and standard error together in the application, for that reason, I have used only standard output. Moreover, 
+I have remembered the previous knowledge that I have learned before such as clean the buffer and finally, I have remembered how 
+to make a switch and I have learned that close the console from a switch with a return.

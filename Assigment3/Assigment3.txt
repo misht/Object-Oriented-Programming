@@ -1,0 +1,19 @@
+Name: Mishell Tigse Ortiz
+Student ID: 2561974
+
+Hours used: 5 hours.
+
+Easy and difficult issues with the assigment:
+
+From my point of view, the main task of the assignment was not difficult. However, the complicated thing is to think about
+the structure of the program and how the classes communicate with each other, especially now that the inheritance comes 
+into play. The most difficult thing in this assignment has been to understand the inheritance and know how to use it since 
+the idea is that the father contains the most general and the son is the specification.
+
+What did you learn from the assigment?
+
+In this assignment, I have learned to use inheritance. I have learned that in the constructors you have to call the constructor 
+parent with the word super()in the child constructor, also that with that same word you can call methods of the parent class in 
+the child class. Besides,  if we create an instance of the father such as Father f = new Father(), we can not access the child's 
+methods, on the contrary, if we create an instance like Father f = new Child (), we will access the son's methods. Finally, we 
+can also override the methods in the children in such a way that we make them more specific.

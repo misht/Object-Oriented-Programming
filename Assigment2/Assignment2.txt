@@ -1,0 +1,15 @@
+Name: Mishell Tigse Ortiz.
+Student ID: 2561974.
+
+Hours used: 3 hours.
+
+Easy and difficult issues with the assigment:
+
+From my point of view, the most difficult part of this assignment has been to create relations between the classes, 
+since at the beginning I did not understand very well how to do it but after the teacher explained it to me it was easier. 
+As for the easiest, I think it has been the implementation of the classes since they are quite simple.
+
+What did your learn about the assigment?
+Thanks to this assignment I have learned that printing inside the constructors in real life is only done to test them and 
+that having several constructors with different parameters is not considered incorrect. On the other hand, I have learned to 
+create relationships between different classes and that all interaction with the user must be done in the main.

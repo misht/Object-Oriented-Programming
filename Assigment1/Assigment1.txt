@@ -1,0 +1,21 @@
+Name: Mishell Tigse Ortiz
+Student ID: 2561974
+
+Hours used: 3 hours.
+
+Easy and difficult issues with the assigment:
+
+I have some experience programming in Java but for example, here my worst challenge has been to know a good structure 
+of the program because for me it is so open that you can program the same thing in many ways. As soon as the skills, 
+I think that for now, I am fine since the logic of this program was not difficult.
+
+What did you learn from the assigment?
+
+In Assignment 1, I have learned that clean the buffer is important since you can have problems after reading a double and 
+you can do it in a simple way with read.nextLine(). Besides, I have also learned that passing the parameters of the getters 
+and the constructors with the final word make more secure your program. In addition, I have learned that in order to have a 
+while that contemplates a lot of conditions, you can use while(true) and then when the condition that you want is fulfilled 
+you can go out of the program with a break (I have used this, in order to make a menu). Apart from this, I have understood 
+that while you do not use nested whiles and ifs, it is not bad programming to use a break. Finally, I think that I have learned 
+how to do a cleaner program since I have always made every test inside the main function and here, I have made separate functions 
+in the main class and then, I have tested them in the main function apart from doing all the communications with the user in the main class.
